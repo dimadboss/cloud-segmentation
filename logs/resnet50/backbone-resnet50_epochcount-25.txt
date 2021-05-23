@@ -1,0 +1,50 @@
+Epoch 1/25
+277/277 - 761s - loss: 0.3939 - dice_coef: 0.3207 - val_loss: 1.1964 - val_dice_coef: 0.2374
+Epoch 2/25
+277/277 - 771s - loss: 0.3059 - dice_coef: 0.3820 - val_loss: 0.5738 - val_dice_coef: 0.1693
+Epoch 3/25
+277/277 - 789s - loss: 0.2974 - dice_coef: 0.3997 - val_loss: 1.0659 - val_dice_coef: 0.2075
+Epoch 4/25
+277/277 - 820s - loss: 0.2921 - dice_coef: 0.4102 - val_loss: 0.4993 - val_dice_coef: 0.3197
+Epoch 5/25
+277/277 - 851s - loss: 0.2892 - dice_coef: 0.4153 - val_loss: 0.2973 - val_dice_coef: 0.4198
+Epoch 6/25
+277/277 - 852s - loss: 0.2870 - dice_coef: 0.4198 - val_loss: 0.3177 - val_dice_coef: 0.4543
+Epoch 7/25
+277/277 - 818s - loss: 0.2844 - dice_coef: 0.4242 - val_loss: 0.3384 - val_dice_coef: 0.4049
+Epoch 8/25
+277/277 - 801s - loss: 0.2816 - dice_coef: 0.4304 - val_loss: 0.3305 - val_dice_coef: 0.4470
+
+Epoch 00008: ReduceLROnPlateau reducing learning rate to 0.0001500000071246177.
+Epoch 9/25
+277/277 - 766s - loss: 0.2724 - dice_coef: 0.4450 - val_loss: 0.2756 - val_dice_coef: 0.4474
+Epoch 10/25
+277/277 - 796s - loss: 0.2685 - dice_coef: 0.4542 - val_loss: 0.2723 - val_dice_coef: 0.4515
+Epoch 11/25
+277/277 - 768s - loss: 0.2671 - dice_coef: 0.4560 - val_loss: 0.2803 - val_dice_coef: 0.4706
+Epoch 12/25
+277/277 - 754s - loss: 0.2643 - dice_coef: 0.4638 - val_loss: 0.2715 - val_dice_coef: 0.4662
+Epoch 13/25
+277/277 - 782s - loss: 0.2622 - dice_coef: 0.4675 - val_loss: 0.2823 - val_dice_coef: 0.4562
+Epoch 14/25
+277/277 - 814s - loss: 0.2607 - dice_coef: 0.4723 - val_loss: 0.3031 - val_dice_coef: 0.4408
+Epoch 15/25
+277/277 - 800s - loss: 0.2565 - dice_coef: 0.4790 - val_loss: 0.2805 - val_dice_coef: 0.4765
+
+Epoch 00015: ReduceLROnPlateau reducing learning rate to 7.500000356230885e-05.
+Epoch 16/25
+277/277 - 793s - loss: 0.2479 - dice_coef: 0.4936 - val_loss: 0.2686 - val_dice_coef: 0.4847
+Epoch 17/25
+277/277 - 794s - loss: 0.2444 - dice_coef: 0.5026 - val_loss: 0.2774 - val_dice_coef: 0.4846
+Epoch 18/25
+277/277 - 803s - loss: 0.2393 - dice_coef: 0.5131 - val_loss: 0.2779 - val_dice_coef: 0.4812
+Epoch 19/25
+277/277 - 822s - loss: 0.2368 - dice_coef: 0.5198 - val_loss: 0.2768 - val_dice_coef: 0.4730
+
+Epoch 00019: ReduceLROnPlateau reducing learning rate to 3.7500001781154424e-05.
+Epoch 20/25
+277/277 - 806s - loss: 0.2294 - dice_coef: 0.5330 - val_loss: 0.2711 - val_dice_coef: 0.4982
+Epoch 21/25
+277/277 - 793s - loss: 0.2245 - dice_coef: 0.5423 - val_loss: 0.2741 - val_dice_coef: 0.4955
+Restoring model weights from the end of the best epoch.
+Epoch 00021: early stopping

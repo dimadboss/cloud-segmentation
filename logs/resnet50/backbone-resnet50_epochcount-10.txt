@@ -1,0 +1,44 @@
+Epoch 1/10
+277/277 - 896s - loss: 0.3979 - dice_coef: 0.2990 - val_loss: 0.5848 - val_dice_coef: 0.2029
+Epoch 2/10
+277/277 - 838s - loss: 0.3106 - dice_coef: 0.3669 - val_loss: 1.1445 - val_dice_coef: 0.2013
+Epoch 3/10
+277/277 - 857s - loss: 0.2992 - dice_coef: 0.3935 - val_loss: 1.0341 - val_dice_coef: 0.2042
+Epoch 4/10
+277/277 - 865s - loss: 0.2943 - dice_coef: 0.4058 - val_loss: 0.4286 - val_dice_coef: 0.3318
+Epoch 5/10
+277/277 - 847s - loss: 0.2909 - dice_coef: 0.4113 - val_loss: 0.3168 - val_dice_coef: 0.4428
+Epoch 6/10
+277/277 - 851s - loss: 0.2890 - dice_coef: 0.4188 - val_loss: 0.2892 - val_dice_coef: 0.4507
+Epoch 7/10
+277/277 - 837s - loss: 0.2862 - dice_coef: 0.4212 - val_loss: 0.2962 - val_dice_coef: 0.4658
+Epoch 8/10
+277/277 - 821s - loss: 0.2837 - dice_coef: 0.4293 - val_loss: 0.2905 - val_dice_coef: 0.4356
+Epoch 9/10
+277/277 - 837s - loss: 0.2806 - dice_coef: 0.4330 - val_loss: 0.3316 - val_dice_coef: 0.4408
+
+Epoch 00009: ReduceLROnPlateau reducing learning rate to 0.0001500000071246177.
+Epoch 10/10
+277/277 - 818s - loss: 0.2707 - dice_coef: 0.4507 - val_loss: 0.2796 - val_dice_coef: 0.4563
+-------------------------------------------------------------------------------------------------
+Epoch 1/10
+554/554 - 853s - loss: 0.3259 - dice_coef: 0.3559 - val_loss: 0.7844 - val_dice_coef: 0.1980
+Epoch 2/10
+554/554 - 834s - loss: 0.3052 - dice_coef: 0.3825 - val_loss: 0.5163 - val_dice_coef: 0.3082
+Epoch 3/10
+554/554 - 815s - loss: 0.3008 - dice_coef: 0.3904 - val_loss: 0.3021 - val_dice_coef: 0.4465
+Epoch 4/10
+554/554 - 784s - loss: 0.2966 - dice_coef: 0.3989 - val_loss: 0.2994 - val_dice_coef: 0.4060
+Epoch 5/10
+554/554 - 830s - loss: 0.2933 - dice_coef: 0.4058 - val_loss: 0.2978 - val_dice_coef: 0.4432
+Epoch 6/10
+554/554 - 833s - loss: 0.2905 - dice_coef: 0.4112 - val_loss: 0.2941 - val_dice_coef: 0.4258
+Epoch 7/10
+554/554 - 819s - loss: 0.2881 - dice_coef: 0.4142 - val_loss: 0.3057 - val_dice_coef: 0.4706
+Epoch 8/10
+554/554 - 838s - loss: 0.2855 - dice_coef: 0.4198 - val_loss: 0.3509 - val_dice_coef: 0.4039
+Epoch 9/10
+554/554 - 833s - loss: 0.2845 - dice_coef: 0.4228 - val_loss: 0.2863 - val_dice_coef: 0.4384
+Epoch 10/10
+554/554 - 802s - loss: 0.2813 - dice_coef: 0.4282 - val_loss: 0.2849 - val_dice_coef: 0.4392
+backbone-resnet50_epochcount-10-FPN

@@ -1,0 +1,247 @@
+Epoch 1/15
+277/277 - 754s - loss: 0.3880 - dice_coef: 0.3136 - val_loss: 0.5791 - val_dice_coef: 0.2025
+Epoch 2/15
+277/277 - 745s - loss: 0.3086 - dice_coef: 0.3752 - val_loss: 0.5521 - val_dice_coef: 0.1565
+Epoch 3/15
+277/277 - 746s - loss: 0.3006 - dice_coef: 0.3927 - val_loss: 1.2399 - val_dice_coef: 0.2091
+Epoch 4/15
+277/277 - 732s - loss: 0.2938 - dice_coef: 0.4067 - val_loss: 0.4775 - val_dice_coef: 0.3350
+Epoch 5/15
+277/277 - 742s - loss: 0.2897 - dice_coef: 0.4143 - val_loss: 0.4685 - val_dice_coef: 0.3976
+Epoch 6/15
+277/277 - 746s - loss: 0.2866 - dice_coef: 0.4190 - val_loss: 0.3159 - val_dice_coef: 0.4684
+Epoch 7/15
+277/277 - 740s - loss: 0.2834 - dice_coef: 0.4260 - val_loss: 0.2851 - val_dice_coef: 0.4494
+Epoch 8/15
+277/277 - 749s - loss: 0.2811 - dice_coef: 0.4298 - val_loss: 0.3045 - val_dice_coef: 0.4807
+Epoch 9/15
+277/277 - 744s - loss: 0.2797 - dice_coef: 0.4352 - val_loss: 0.2935 - val_dice_coef: 0.4267
+Epoch 10/15
+277/277 - 742s - loss: 0.2781 - dice_coef: 0.4376 - val_loss: 0.3142 - val_dice_coef: 0.4523
+
+Epoch 00010: ReduceLROnPlateau reducing learning rate to 0.0001500000071246177.
+Epoch 11/15
+277/277 - 728s - loss: 0.2671 - dice_coef: 0.4550 - val_loss: 0.2698 - val_dice_coef: 0.4585
+Epoch 12/15
+277/277 - 777s - loss: 0.2637 - dice_coef: 0.4641 - val_loss: 0.3090 - val_dice_coef: 0.4485
+Epoch 13/15
+277/277 - 758s - loss: 0.2623 - dice_coef: 0.4662 - val_loss: 0.2747 - val_dice_coef: 0.4758
+Epoch 14/15
+277/277 - 772s - loss: 0.2592 - dice_coef: 0.4737 - val_loss: 0.2780 - val_dice_coef: 0.4922
+
+Epoch 00014: ReduceLROnPlateau reducing learning rate to 7.500000356230885e-05.
+Epoch 15/15
+277/277 - 785s - loss: 0.2510 - dice_coef: 0.4881 - val_loss: 0.2672 - val_dice_coef: 0.4682
+backbone-resnet101_epochcount-15
+
+------------------------------------------------------------------------------------------------
+
+Epoch 1/15
+277/277 - 489s - loss: 0.3861 - dice_coef: 0.3274 - val_loss: 0.8695 - val_dice_coef: 0.2040
+Epoch 2/15
+277/277 - 466s - loss: 0.2973 - dice_coef: 0.3970 - val_loss: 0.6843 - val_dice_coef: 0.2173
+Epoch 3/15
+277/277 - 451s - loss: 0.2859 - dice_coef: 0.4194 - val_loss: 1.0391 - val_dice_coef: 0.2169
+Epoch 4/15
+277/277 - 447s - loss: 0.2813 - dice_coef: 0.4324 - val_loss: 0.5168 - val_dice_coef: 0.3197
+Epoch 5/15
+277/277 - 449s - loss: 0.2740 - dice_coef: 0.4454 - val_loss: 0.3140 - val_dice_coef: 0.4525
+Epoch 6/15
+277/277 - 460s - loss: 0.2683 - dice_coef: 0.4570 - val_loss: 0.3313 - val_dice_coef: 0.4609
+Epoch 7/15
+277/277 - 457s - loss: 0.2644 - dice_coef: 0.4661 - val_loss: 0.2842 - val_dice_coef: 0.4513
+Epoch 8/15
+277/277 - 464s - loss: 0.2595 - dice_coef: 0.4760 - val_loss: 0.3249 - val_dice_coef: 0.4261
+Epoch 9/15
+277/277 - 461s - loss: 0.2534 - dice_coef: 0.4899 - val_loss: 0.3123 - val_dice_coef: 0.4548
+Epoch 10/15
+277/277 - 460s - loss: 0.2468 - dice_coef: 0.5024 - val_loss: 0.3003 - val_dice_coef: 0.4590
+
+Epoch 00010: ReduceLROnPlateau reducing learning rate to 0.0001500000071246177.
+Epoch 11/15
+277/277 - 458s - loss: 0.2279 - dice_coef: 0.5374 - val_loss: 0.2871 - val_dice_coef: 0.4767
+Epoch 12/15
+277/277 - 458s - loss: 0.2123 - dice_coef: 0.5696 - val_loss: 0.2913 - val_dice_coef: 0.4945
+Restoring model weights from the end of the best epoch.
+Epoch 00012: early stopping
+backbone-resnet101_epochcount-15_HF_VF
+---------------------------------------------------------------------------------------------------
+Epoch 1/15
+277/277 - 485s - loss: 0.3620 - dice_coef: 0.3095 - val_loss: 0.4509 - val_dice_coef: 0.1131
+Epoch 2/15
+277/277 - 468s - loss: 0.2984 - dice_coef: 0.3553 - val_loss: 0.7283 - val_dice_coef: 0.2010
+Epoch 3/15
+277/277 - 467s - loss: 0.2925 - dice_coef: 0.3720 - val_loss: 0.7694 - val_dice_coef: 0.2196
+Epoch 4/15
+277/277 - 461s - loss: 0.2856 - dice_coef: 0.3833 - val_loss: 0.5545 - val_dice_coef: 0.2941
+
+Epoch 00004: ReduceLROnPlateau reducing learning rate to 0.0001500000071246177.
+Epoch 5/15
+277/277 - 462s - loss: 0.2767 - dice_coef: 0.4035 - val_loss: 0.2884 - val_dice_coef: 0.4296
+Epoch 6/15
+277/277 - 475s - loss: 0.2723 - dice_coef: 0.4112 - val_loss: 0.2936 - val_dice_coef: 0.4367
+Epoch 7/15
+277/277 - 471s - loss: 0.2727 - dice_coef: 0.4140 - val_loss: 0.3185 - val_dice_coef: 0.4076
+Epoch 8/15
+277/277 - 472s - loss: 0.2699 - dice_coef: 0.4181 - val_loss: 0.2840 - val_dice_coef: 0.4591
+Epoch 9/15
+277/277 - 504s - loss: 0.2676 - dice_coef: 0.4221 - val_loss: 0.3002 - val_dice_coef: 0.4135
+Epoch 10/15
+277/277 - 509s - loss: 0.2652 - dice_coef: 0.4250 - val_loss: 0.2794 - val_dice_coef: 0.4564
+Epoch 11/15
+277/277 - 478s - loss: 0.2660 - dice_coef: 0.4284 - val_loss: 0.2951 - val_dice_coef: 0.4519
+Epoch 12/15
+277/277 - 470s - loss: 0.2633 - dice_coef: 0.4341 - val_loss: 0.2879 - val_dice_coef: 0.4177
+Epoch 13/15
+277/277 - 482s - loss: 0.2608 - dice_coef: 0.4325 - val_loss: 0.2888 - val_dice_coef: 0.4585
+
+Epoch 00013: ReduceLROnPlateau reducing learning rate to 7.500000356230885e-05.
+Epoch 14/15
+277/277 - 488s - loss: 0.2535 - dice_coef: 0.4513 - val_loss: 0.2806 - val_dice_coef: 0.4399
+Epoch 15/15
+277/277 - 476s - loss: 0.2509 - dice_coef: 0.4584 - val_loss: 0.2693 - val_dice_coef: 0.4622
+backbone-resnet101_epochcount-15_HF_SR_GD_OD
+
+----------------------------------------------------------------------------------------------------
+Epoch 1/15
+554/554 - 755s - loss: 0.3275 - dice_coef: 0.3495 - val_loss: 0.5789 - val_dice_coef: 0.1464
+Epoch 2/15
+554/554 - 726s - loss: 0.3080 - dice_coef: 0.3759 - val_loss: 0.5261 - val_dice_coef: 0.3442
+Epoch 3/15
+554/554 - 798s - loss: 0.3013 - dice_coef: 0.3897 - val_loss: 0.3148 - val_dice_coef: 0.4409
+Epoch 4/15
+554/554 - 754s - loss: 0.2972 - dice_coef: 0.3970 - val_loss: 0.3259 - val_dice_coef: 0.4351
+Epoch 5/15
+554/554 - 734s - loss: 0.2947 - dice_coef: 0.4018 - val_loss: 0.3105 - val_dice_coef: 0.4306
+Epoch 6/15
+554/554 - 793s - loss: 0.2912 - dice_coef: 0.4081 - val_loss: 0.2836 - val_dice_coef: 0.4382
+Epoch 7/15
+554/554 - 760s - loss: 0.2898 - dice_coef: 0.4123 - val_loss: 0.3140 - val_dice_coef: 0.4407
+Epoch 8/15
+554/554 - 745s - loss: 0.2864 - dice_coef: 0.4181 - val_loss: 0.2925 - val_dice_coef: 0.4450
+Epoch 9/15
+554/554 - 728s - loss: 0.2831 - dice_coef: 0.4259 - val_loss: 0.3097 - val_dice_coef: 0.4121
+
+Epoch 00009: ReduceLROnPlateau reducing learning rate to 0.0001500000071246177.
+Epoch 10/15
+554/554 - 732s - loss: 0.2709 - dice_coef: 0.4468 - val_loss: 0.2732 - val_dice_coef: 0.4570
+Epoch 11/15
+554/554 - 786s - loss: 0.2694 - dice_coef: 0.4514 - val_loss: 0.2771 - val_dice_coef: 0.4640
+Epoch 12/15
+554/554 - 778s - loss: 0.2662 - dice_coef: 0.4576 - val_loss: 0.2652 - val_dice_coef: 0.4559
+Epoch 13/15
+554/554 - 782s - loss: 0.2631 - dice_coef: 0.4650 - val_loss: 0.2666 - val_dice_coef: 0.4738
+Epoch 14/15
+554/554 - 807s - loss: 0.2605 - dice_coef: 0.4698 - val_loss: 0.2786 - val_dice_coef: 0.4770
+Epoch 15/15
+554/554 - 805s - loss: 0.2596 - dice_coef: 0.4717 - val_loss: 0.2662 - val_dice_coef: 0.4786
+
+Epoch 00015: ReduceLROnPlateau reducing learning rate to 7.500000356230885e-05.
+backbone-resnet101_epochcount-15-FPN
+----------------------------------------------------------------------------------------------------------
+Epoch 1/15
+554/554 - 511s - loss: 0.3219 - dice_coef: 0.3659 - val_loss: 1.3712 - val_dice_coef: 0.2075
+Epoch 2/15
+554/554 - 520s - loss: 0.2978 - dice_coef: 0.3953 - val_loss: 0.3945 - val_dice_coef: 0.3791
+Epoch 3/15
+554/554 - 553s - loss: 0.2909 - dice_coef: 0.4084 - val_loss: 0.4017 - val_dice_coef: 0.3685
+Epoch 4/15
+554/554 - 550s - loss: 0.2840 - dice_coef: 0.4219 - val_loss: 0.3736 - val_dice_coef: 0.3936
+Epoch 5/15
+554/554 - 548s - loss: 0.2792 - dice_coef: 0.4313 - val_loss: 0.2910 - val_dice_coef: 0.4304
+Epoch 6/15
+554/554 - 547s - loss: 0.2767 - dice_coef: 0.4374 - val_loss: 0.3158 - val_dice_coef: 0.4368
+Epoch 7/15
+554/554 - 545s - loss: 0.2708 - dice_coef: 0.4496 - val_loss: 0.2967 - val_dice_coef: 0.4303
+Epoch 8/15
+554/554 - 536s - loss: 0.2655 - dice_coef: 0.4597 - val_loss: 0.2910 - val_dice_coef: 0.4375
+
+Epoch 00008: ReduceLROnPlateau reducing learning rate to 0.0001500000071246177.
+Epoch 9/15
+554/554 - 475s - loss: 0.2443 - dice_coef: 0.5019 - val_loss: 0.2836 - val_dice_coef: 0.4687
+Epoch 10/15
+554/554 - 527s - loss: 0.2319 - dice_coef: 0.5303 - val_loss: 0.3172 - val_dice_coef: 0.4598
+Epoch 11/15
+554/554 - 525s - loss: 0.2210 - dice_coef: 0.5523 - val_loss: 0.3025 - val_dice_coef: 0.4573
+Epoch 12/15
+554/554 - 525s - loss: 0.2099 - dice_coef: 0.5766 - val_loss: 0.2996 - val_dice_coef: 0.4869
+
+Epoch 00012: ReduceLROnPlateau reducing learning rate to 7.500000356230885e-05.
+Epoch 13/15
+554/554 - 516s - loss: 0.1848 - dice_coef: 0.6274 - val_loss: 0.3011 - val_dice_coef: 0.4997
+Epoch 14/15
+554/554 - 517s - loss: 0.1688 - dice_coef: 0.6635 - val_loss: 0.3051 - val_dice_coef: 0.4881
+Restoring model weights from the end of the best epoch.
+Epoch 00014: early stopping
+backbone-resnet101_epochcount-15_HF_VF-FPN
+-----------------------------------------------------------------------------------------------------
+Epoch 1/15
+1109/1109 - 461s - loss: 0.3491 - dice_coef: 0.2751 - val_loss: 0.3889 - val_dice_coef: 0.3025
+Epoch 2/15
+1109/1109 - 428s - loss: 0.3213 - dice_coef: 0.3026 - val_loss: 0.3519 - val_dice_coef: 0.3474
+Epoch 3/15
+1109/1109 - 456s - loss: 0.3157 - dice_coef: 0.3142 - val_loss: 0.3678 - val_dice_coef: 0.3253
+Epoch 4/15
+1109/1109 - 455s - loss: 0.3099 - dice_coef: 0.3237 - val_loss: 0.3616 - val_dice_coef: 0.3320
+Epoch 5/15
+1109/1109 - 456s - loss: 0.3078 - dice_coef: 0.3311 - val_loss: 0.3207 - val_dice_coef: 0.3444
+Epoch 6/15
+1109/1109 - 444s - loss: 0.3024 - dice_coef: 0.3392 - val_loss: 0.2966 - val_dice_coef: 0.4049
+Epoch 7/15
+1109/1109 - 457s - loss: 0.3014 - dice_coef: 0.3454 - val_loss: 0.3088 - val_dice_coef: 0.3710
+Epoch 8/15
+1109/1109 - 457s - loss: 0.2945 - dice_coef: 0.3562 - val_loss: 0.3080 - val_dice_coef: 0.3819
+Epoch 9/15
+1109/1109 - 457s - loss: 0.2921 - dice_coef: 0.3629 - val_loss: 0.3909 - val_dice_coef: 0.3612
+
+Epoch 00009: ReduceLROnPlateau reducing learning rate to 0.0001500000071246177.
+Epoch 10/15
+1109/1109 - 459s - loss: 0.2834 - dice_coef: 0.3805 - val_loss: 0.2895 - val_dice_coef: 0.4001
+Epoch 11/15
+1109/1109 - 446s - loss: 0.2804 - dice_coef: 0.3866 - val_loss: 0.2987 - val_dice_coef: 0.4057
+Epoch 12/15
+1109/1109 - 440s - loss: 0.2807 - dice_coef: 0.3899 - val_loss: 0.2865 - val_dice_coef: 0.4370
+Epoch 13/15
+1109/1109 - 428s - loss: 0.2765 - dice_coef: 0.3962 - val_loss: 0.2847 - val_dice_coef: 0.4286
+Epoch 14/15
+1109/1109 - 447s - loss: 0.2754 - dice_coef: 0.3992 - val_loss: 0.2841 - val_dice_coef: 0.4172
+Epoch 15/15
+1109/1109 - 435s - loss: 0.2743 - dice_coef: 0.4019 - val_loss: 0.3036 - val_dice_coef: 0.4284
+backbone-resnet101_epochcount-15_Gray_Scale_HF_SR_GD_OD
+---------------------------------------------------------------------------------------------------
+Epoch 1/15
+554/554 - 452s - loss: 0.3538 - dice_coef: 0.3294 - val_loss: 0.7441 - val_dice_coef: 0.2091
+Epoch 2/15
+554/554 - 443s - loss: 0.3073 - dice_coef: 0.3753 - val_loss: 0.3750 - val_dice_coef: 0.3657
+Epoch 3/15
+554/554 - 464s - loss: 0.2992 - dice_coef: 0.3912 - val_loss: 0.3766 - val_dice_coef: 0.3791
+Epoch 4/15
+554/554 - 475s - loss: 0.2942 - dice_coef: 0.4032 - val_loss: 0.3162 - val_dice_coef: 0.3922
+Epoch 5/15
+554/554 - 439s - loss: 0.2899 - dice_coef: 0.4105 - val_loss: 0.3181 - val_dice_coef: 0.4195
+Epoch 6/15
+554/554 - 437s - loss: 0.2860 - dice_coef: 0.4178 - val_loss: 0.3118 - val_dice_coef: 0.4269
+Epoch 7/15
+554/554 - 461s - loss: 0.2815 - dice_coef: 0.4272 - val_loss: 0.3019 - val_dice_coef: 0.4243
+Epoch 8/15
+554/554 - 475s - loss: 0.2777 - dice_coef: 0.4353 - val_loss: 0.2930 - val_dice_coef: 0.4601
+Epoch 9/15
+554/554 - 465s - loss: 0.2725 - dice_coef: 0.4457 - val_loss: 0.3166 - val_dice_coef: 0.4658
+Epoch 10/15
+554/554 - 459s - loss: 0.2681 - dice_coef: 0.4559 - val_loss: 0.2998 - val_dice_coef: 0.4645
+Epoch 11/15
+554/554 - 452s - loss: 0.2613 - dice_coef: 0.4691 - val_loss: 0.3206 - val_dice_coef: 0.3964
+
+Epoch 00011: ReduceLROnPlateau reducing learning rate to 0.0001500000071246177.
+Epoch 12/15
+554/554 - 455s - loss: 0.2433 - dice_coef: 0.5039 - val_loss: 0.2812 - val_dice_coef: 0.4549
+Epoch 13/15
+554/554 - 460s - loss: 0.2332 - dice_coef: 0.5254 - val_loss: 0.2845 - val_dice_coef: 0.4680
+Epoch 14/15
+554/554 - 473s - loss: 0.2208 - dice_coef: 0.5518 - val_loss: 0.2868 - val_dice_coef: 0.4841
+Epoch 15/15
+554/554 - 475s - loss: 0.2119 - dice_coef: 0.5719 - val_loss: 0.2930 - val_dice_coef: 0.4657
+
+Epoch 00015: ReduceLROnPlateau reducing learning rate to 7.500000356230885e-05.
+backbone-resnet101_epochcount-15_Gray_Scale_HF_VF
+

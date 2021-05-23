@@ -1,0 +1,44 @@
+Epoch 1/20
+277/277 - 831s - loss: 0.4058 - dice_coef: 0.2954 - val_loss: 0.6820 - val_dice_coef: 0.1930
+Epoch 2/20
+277/277 - 811s - loss: 0.3133 - dice_coef: 0.3649 - val_loss: 1.0813 - val_dice_coef: 0.2060
+Epoch 3/20
+277/277 - 770s - loss: 0.3007 - dice_coef: 0.3930 - val_loss: 0.9255 - val_dice_coef: 0.1908
+Epoch 4/20
+277/277 - 769s - loss: 0.2937 - dice_coef: 0.4067 - val_loss: 0.4117 - val_dice_coef: 0.3583
+Epoch 5/20
+277/277 - 773s - loss: 0.2906 - dice_coef: 0.4137 - val_loss: 0.3101 - val_dice_coef: 0.4602
+Epoch 6/20
+277/277 - 836s - loss: 0.2879 - dice_coef: 0.4194 - val_loss: 0.3379 - val_dice_coef: 0.4332
+Epoch 7/20
+277/277 - 800s - loss: 0.2839 - dice_coef: 0.4257 - val_loss: 0.3360 - val_dice_coef: 0.4031
+Epoch 8/20
+277/277 - 830s - loss: 0.2815 - dice_coef: 0.4313 - val_loss: 0.3396 - val_dice_coef: 0.4072
+
+Epoch 00008: ReduceLROnPlateau reducing learning rate to 0.0001500000071246177.
+Epoch 9/20
+277/277 - 814s - loss: 0.2723 - dice_coef: 0.4436 - val_loss: 0.3196 - val_dice_coef: 0.4394
+Epoch 10/20
+277/277 - 852s - loss: 0.2688 - dice_coef: 0.4536 - val_loss: 0.2812 - val_dice_coef: 0.4553
+Epoch 11/20
+277/277 - 811s - loss: 0.2675 - dice_coef: 0.4579 - val_loss: 0.2762 - val_dice_coef: 0.4535
+Epoch 12/20
+277/277 - 786s - loss: 0.2645 - dice_coef: 0.4648 - val_loss: 0.2741 - val_dice_coef: 0.4742
+Epoch 13/20
+277/277 - 740s - loss: 0.2624 - dice_coef: 0.4679 - val_loss: 0.2935 - val_dice_coef: 0.4600
+Epoch 14/20
+277/277 - 761s - loss: 0.2603 - dice_coef: 0.4718 - val_loss: 0.2833 - val_dice_coef: 0.4851
+Epoch 15/20
+277/277 - 755s - loss: 0.2570 - dice_coef: 0.4775 - val_loss: 0.2753 - val_dice_coef: 0.4629
+
+Epoch 00015: ReduceLROnPlateau reducing learning rate to 7.500000356230885e-05.
+Epoch 16/20
+277/277 - 761s - loss: 0.2486 - dice_coef: 0.4929 - val_loss: 0.2717 - val_dice_coef: 0.4806
+Epoch 17/20
+277/277 - 794s - loss: 0.2447 - dice_coef: 0.5018 - val_loss: 0.2709 - val_dice_coef: 0.4964
+Epoch 18/20
+277/277 - 790s - loss: 0.2396 - dice_coef: 0.5113 - val_loss: 0.2733 - val_dice_coef: 0.4819
+Epoch 19/20
+277/277 - 785s - loss: 0.2356 - dice_coef: 0.5210 - val_loss: 0.2757 - val_dice_coef: 0.4894
+Epoch 20/20
+277/277 - 768s - loss: 0.2319 - dice_coef: 0.5292 - val_loss: 0.2768 - val_dice_coef: 0.4927
